@@ -35,3 +35,11 @@ We welcome contributions to the project. Please read our [contributing guideline
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/navedrasul/danacore-dashboard-api/blob/main/LICENSE) file for more details.
+
+## Disclaimer
+
+Please review our [disclaimer](https://github.com/navedrasul/danacore-dashboard-api/blob/main/DISCLAIMER.md) for important information.
+
+## Related Projects
+
+Check out the main [DanaCore (ERP System) repository](https://github.com/navedrasul/DanaCore) for additional tools and modules related to DanaCore.
